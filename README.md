@@ -26,7 +26,7 @@ to be more prolific because the ground is heated up more by where the sun is fac
 
 
 This is a sped up gif of the art installation:
-![](https://imgur.com/a/FKf4dwS)
+![me](https://github.com/Tecknique/forageable/blob/main/ezgif-2-a35deaf8ad.gif)
 It's a 3d projector, projecting 8 6x6 squares of 3d printed topography. The colors
 represent the aspect slope, and the lines are elevation. Whereever the color illuminates 
 is where in the season people should focus on for finding morel mushrooms. 
