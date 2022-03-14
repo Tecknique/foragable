@@ -31,6 +31,6 @@ It's a 3d projector, projecting 8 6x6 squares of 3d printed topography. The colo
 represent the aspect slope, and the lines are elevation. Whereever the color illuminates 
 is where in the season people should focus on for finding morel mushrooms. 
 
-My data comes from personal experience, I have been foraging morels for 5 years, so I accept any criticism, and will be extremely happy to receive advice from people that have more experience then me on how I should change my equations. The equations are not linear, because it involves angles as well as elevation.
+My data comes from personal experience, and from various sources online, but where mushrooms grow is not an exact science. I have been foraging morels for 5 years, so I will accept any criticism, and will be extremely happy to receive advice from people that have more experience then me on how I should change my equations. The equations are not linear, because it involves angles as well as elevation.
 
 If you have any questions, or advice I'd be very excited to answer them. Please feel free to ask anything.
