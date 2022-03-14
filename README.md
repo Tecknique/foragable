@@ -2,6 +2,8 @@
 
 first push, changing code from python to c++, for learning purposes. 3/14/2022
 
+THIS WONT WORK I JUST STARTED CHANGING THE CODE FROM PYTHON TO C++  ON DAY COMMITED
+
 forageable is a project that identifies variables of various forageable objects, and their environmental features,
 and illuminates the location on a map based on each day of the season.
 
