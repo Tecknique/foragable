@@ -9,11 +9,11 @@ and illuminates the location on a map based on each day of the season.
 
 The main environmental variables are:
 
-location
-elevation
-aspect slope of the coordinate
-time of season
-streetway
+location,
+elevation,
+aspect slope of the coordinate,
+time of season,
+streetway,
 rivers
 
 this was originally an art installation to educate people on what part of the mountain, and elevation they should
